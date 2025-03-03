@@ -3,7 +3,7 @@
 ## Overview
 This project is a **Password Strength Checker** that evaluates the strength of passwords entered by users. It analyzes factors such as **length**, **complexity**, and **uniqueness** to provide feedback on password strength. The project comprises a **frontend web interface**, a **backend server** with an API endpoint for password analysis, and a **strength evaluation algorithm**.
 
-![Password Strength Checker Screenshot](one.png) 
+![Password Strength Checker Screenshot](./frontend/public/one.png)
 
 ---
 

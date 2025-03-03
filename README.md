@@ -18,7 +18,7 @@ The frontend provides a user-friendly interface where users can input a password
   - Button to initiate the strength check.
   - Display area for the strength result and feedback (e.g., "Strong", "Moderate", or "Weak").
 
-![Password Strength Checker Screenshot](two.png) 
+![Password Strength Checker Screenshot](./frontend/public/three.png)
 
 
 ### **Backend**
